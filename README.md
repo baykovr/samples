@@ -1,2 +1,1 @@
-# samples
-samples and tutorials
+# Samples, notes and tutorials
