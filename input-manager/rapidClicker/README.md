@@ -3,8 +3,6 @@
 
 Rapid clicker is a tiny application for left clicking at variable speeds. It utilizes [InputManager](http://www.codeproject.com/Articles/117657/InputManager-library-Track-user-input-and-simulate), a library for mouse press generation at a raw input level, it's really fast.
 
-Checkout the latest [release page](https://github.com/baykovr/rapidClicker/releases/latest) or get the zip [here](https://github.com/baykovr/rapidClicker/releases/download/1.0/rapidClicker_1.0.zip).
-
 <img src="https://raw.githubusercontent.com/baykovr/rapidClicker/master/screens/steam.png" width="700">
 
 <img src="https://raw.githubusercontent.com/baykovr/rapidClicker/master/screens/main.PNG" width="400">
