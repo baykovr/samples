@@ -1,1 +1,1 @@
-# Notes, samples and scratch programs
+Notes, samples and scratch programs
